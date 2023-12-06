@@ -1,4 +1,4 @@
-# Sum function for x
+# Sum function for x based on aritmetic sum formula
 def calc_sum(x):
     n = 999 // x
     return (x * n * (n + 1)) // 2
